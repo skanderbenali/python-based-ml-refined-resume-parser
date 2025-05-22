@@ -1,0 +1,61 @@
+[
+  {
+    "text": "John Doe\njohn.doe@example.com\n(123) 456-7890\nNew York, NY\n\nExperienced Software Engineer with 5 years of experience in Python, JavaScript, and React.",
+    "entities": [
+      [0, 8, "NAME"],
+      [9, 29, "EMAIL"],
+      [30, 44, "PHONE"],
+      [45, 56, "LOCATION"],
+      [70, 87, "EXPERIENCE_TITLE"],
+      [93, 100, "EXPERIENCE_DURATION"],
+      [114, 120, "SKILL"],
+      [122, 132, "SKILL"],
+      [138, 143, "SKILL"]
+    ]
+  },
+  {
+    "text": "EDUCATION\nBachelor of Science in Computer Science\nMassachusetts Institute of Technology\n2015-2019",
+    "entities": [
+      [11, 48, "EDUCATION_DEGREE"],
+      [49, 87, "EDUCATION_INSTITUTION"],
+      [88, 96, "EDUCATION_YEAR"]
+    ]
+  },
+  {
+    "text": "EXPERIENCE\nSenior Software Engineer\nGoogle\nJan 2019 - Present\n• Led development of machine learning algorithms for data analysis\n• Managed a team of 5 developers",
+    "entities": [
+      [11, 35, "EXPERIENCE_TITLE"],
+      [36, 42, "EXPERIENCE_COMPANY"],
+      [43, 60, "EXPERIENCE_DURATION"],
+      [80, 97, "SKILL"]
+    ]
+  },
+  {
+    "text": "SKILLS\nPython, JavaScript, React, Node.js, TensorFlow, SQL, Git, Docker, AWS",
+    "entities": [
+      [7, 13, "SKILL"],
+      [15, 25, "SKILL"],
+      [27, 32, "SKILL"],
+      [34, 41, "SKILL"],
+      [43, 53, "SKILL"],
+      [55, 58, "SKILL"],
+      [60, 63, "SKILL"],
+      [65, 71, "SKILL"],
+      [73, 76, "SKILL"]
+    ]
+  },
+  {
+    "text": "CERTIFICATIONS\nAWS Certified Developer\nGoogle Cloud Professional",
+    "entities": [
+      [15, 38, "CERTIFICATION"],
+      [39, 65, "CERTIFICATION"]
+    ]
+  },
+  {
+    "text": "PROJECTS\nPersonal Website - A portfolio site built with React\nML Model - A machine learning model for predicting stock prices",
+    "entities": [
+      [9, 26, "PROJECT"],
+      [60, 68, "PROJECT"]
+    ]
+  }
+]
