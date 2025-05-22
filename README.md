@@ -1,5 +1,12 @@
 # Resume Parser
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![spaCy](https://img.shields.io/badge/spaCy-3.2%2B-green)](https://spacy.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Made with ML](https://img.shields.io/badge/Made%20with-ML-ff69b4)](https://madewithml.com/)
+[![NLP](https://img.shields.io/badge/NLP-Resume%20Parsing-orange)](https://en.wikipedia.org/wiki/Natural_language_processing)
+
 A professional Python-based resume parser using spaCy and machine learning to extract, classify, and structure resume data into a standardized JSON format. This tool efficiently processes resumes from multiple file formats and provides detailed, structured information for ATS systems and HR professionals.
 
 ## Features
@@ -32,7 +39,7 @@ A professional Python-based resume parser using spaCy and machine learning to ex
 git clone https://github.com/skanderbenali/python-based-ml-refined-resume-parser.git
 
 # Navigate to the project directory
-cd refined-resume-parser-script
+cd python-based-ml-refined-resume-parser
 
 # Install dependencies
 pip install -r requirements.txt
